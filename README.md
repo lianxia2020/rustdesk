@@ -26,9 +26,12 @@ RustDesk 期待各位的贡献. 如何参与开发? 详情请看 [CONTRIBUTING-Z
 
 [**NIGHTLY BUILD**](https://github.com/rustdesk/rustdesk/releases/tag/nightly)
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+[<img src="https://f-droid.org/badge/get-it-on.png"
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/en/packages/com.carriez.flutter_hbb)
+[<img src="https://flathub.org/api/badge?svg&locale=en"
+    alt="Get it on Flathub"
+    height="80">](https://flathub.org/apps/com.rustdesk.RustDesk)
 
 ## 依赖
 
